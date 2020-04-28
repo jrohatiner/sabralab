@@ -39,7 +39,7 @@
     "restler": "^3.2.2",
     "serve-favicon": "latest",
     "string": "^1.8.1",
-    "superagent": "^0.19.1",
+    "superagent": "^3.7.0",
     "underscore": "latest",
     "validator": "^3.43.0"
   },
